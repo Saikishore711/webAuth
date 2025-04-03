@@ -1,0 +1,71 @@
+# Compiled source files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# Dependency directories
+node_modules/
+vendor/
+packages/
+jspm_packages/
+.venv/
+env/
+.gradle/
+target/
+bin/
+obj/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE specific files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Temporary files
+*~
+\#*
+.tmp
+*.bak
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.*
+
+# Build artifacts
+dist/
+build/
+out/
+release/
+
+# Configuration files that may contain secrets
+config.json
+secrets.json
+credentials.json
+
+# Packages lock files (if you don't want to track them)
+# package-lock.json
+# yarn.lock
+# Pipfile.lock
+
+# Specific files that you want to ignore
+# my_secret_file.txt
